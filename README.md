@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gary Jackson <br/><a href="https://github.com/techguy24jackson">Information Technology Professional</a>, <a href="https://www.linkedin.com/in/gary-jackson-4072bb275/">Help Desk Technician</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Azure Compute and Networking Project:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
