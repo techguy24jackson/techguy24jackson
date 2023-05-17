@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gary Jackson <br/><a href="https://github.com/techguy24jackson">Programmer</a>, <a href="https://www.linkedin.com/in/gary-jackson-4072bb275/">Information Technology Professional and Help Desk Technician</a>
+<h1>Hi, I'm Gary Jackson <br/><a href="https://github.com/techguy24jackson">Information Technology Professional</a>, <a href="https://www.linkedin.com/in/gary-jackson-4072bb275/">Help Desk Technician</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
