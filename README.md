@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Azure Course Projects:</h2>
 
-- <b>Windows 10 Virtual Machine Inside Azure</b>
+- <b>Windows 10 and Linux Virtual Machines Inside Azure</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
