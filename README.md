@@ -4,6 +4,7 @@
 
 - <b>Windows 10 and Linux Virtual Machines Inside Azure</b>
   <h2>Description</h2>
+- <b>Log into your Microsoft Azure account by typing (https://portal.azure.com/) and check for active subscription.<br/>
 - <b>
 
 
