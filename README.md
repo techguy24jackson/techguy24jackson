@@ -3,9 +3,26 @@
 <h2>👨‍💻 My Azure Course Projects:</h2>
 
 - <b>Windows 10 and Linux Virtual Machines Inside Azure</b>
-  <h2>Description</h2>
+  <h2>Step-by-Step Installment</h2>
 - <b>Log into your Microsoft Azure account by typing (https://portal.azure.com/) and check for active subscription.<br/>
-- <b>
+
+- <b>Click on the "+ create a resource" button located on the top left-hand side of the screen.<br/>
+
+- <b>Type "Virtual Machines" in the "Search the Marketplace" box and press enter.<br/>
+  
+- <b>Choose "Virtual Machines" and click on the "Create" button.<br/>
+  
+- <b>In the "Basic" tab, fill in all the required information such as subscription, resource group, virtual machine name, username, password, and region
+  
+- <b>Select the "Windows 10" option from the "Image" drop down menu under the "select a size" section.<br/>
+  
+- <b>Choose the appropriate virtual machine size based on your requirements of your task and click the "Next: Disks" button<br/>
+  
+- <b>In the "Disk" tab, configure the OS disk, data disk, and networking settings.<br/>
+  
+- <b>Click on the "Review + Create" button to review the configuration options.<br/>
+  
+- <b>Once reviewed, click on the "Create" button to start the deployment process of Windows 10 virtual machine in your Azure subscription.<br/>
 
 
 
