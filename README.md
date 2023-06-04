@@ -23,6 +23,10 @@
 - <b>Click on the "Review + Create" button to review the configuration options.<br/>
   
 - <b>Once reviewed, click on the "Create" button to start the deployment process of Windows 10 virtual machine in your Azure subscription.<br/>
+  
+- <b>Follow the same steps from the second step to create another virtual machine but this time choose "Linux" as the operating system and work your way down the checklist.<br/>
+  
+- <b>Once both the virtual machines are created and deployed, you can access them by using various remote access protocols such as RDP for Windows 10 and SSH for Linux.<br/>
 
 
 
