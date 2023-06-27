@@ -28,6 +28,29 @@
   
 - <b>Once both the virtual machines are created and deployed, you can access them by using various remote access protocols such as RDP for Windows 10 and SSH for Linux.<br/>
 
+  <h2>Active Directory Installment</h2>
+- <b>First, sign in to Azure using your subscription or create a new subscription if you do not have one.<br/>
+
+- <b>Navigate to the Azure portal and click on "create a resource" in the upper left-hand corner.<br/>
+
+- <b>In the search box, type "Active Directory Domain Services" and select it from the list of options.<br/>
+
+- <b>Next, click on the "create" button at the bottom of the page to create a new instance of Active Directory on Azure.<br/>
+
+- <b>You will now need to provide some basic information about your new instance of AD, including a name, domain name, and subscription.<br/>
+
+- <b>After filling in the necessary information, select your preferred pricing tier and instance size. The pricing tier you choose will depend on your needs and budget, with options ranging from basic to premium.<br/>
+
+- <b>Once you have selected your pricing tier, click on the "review + create" button to review your settings and ensure everything is correct.<br/>
+
+- <b>If everything looks good, click on the "create" button at the bottom of the page to begin the installation process.<br/>
+
+- <b>The installation process could take several minutes or more depending on the size of your instance and the resources available to Azure.<br/>
+
+- <b>Once the installation is complete, you can access your new instance of Active Directory through the Azure portal and begin configuring it to meet your needs.<br/>
+
+
+  
 
 
 <h2> 🤳 Connect with me:</h2>
