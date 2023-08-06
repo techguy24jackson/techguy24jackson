@@ -48,6 +48,7 @@
 - <b>The installation process could take several minutes or more depending on the size of your instance and the resources available to Azure.<br/>
 
 - <b>Once the installation is complete, you can access your new instance of Active Directory through the Azure portal and begin configuring it to meet your needs.<br/>
+- <b>
 
 
   
